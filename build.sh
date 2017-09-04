@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker build -t rust-rtl8710-dev .
+docker build -t rtl8710-dev .
